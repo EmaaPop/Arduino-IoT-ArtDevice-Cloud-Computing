@@ -1,4 +1,4 @@
-# Arduino-IoT-art-device for ELEC0017-Connected Systems
+# IoT art device for ELEC0017 Connected Systems, Arduino Cloud
 ## Module Description:
 The modern world is full of connected systems. They underpin the information revolution and drive advances from the way we do business to the way we deliver healthcare.
 
