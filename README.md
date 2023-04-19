@@ -15,4 +15,4 @@ Technology is always changing and as it does, art reflects that. As we are a tea
 2. Detect the movement of pets through infrared motion sensors and control the movement of motors to increase the interaction with them. 
 
 ### User Dashboard:
-/UI
+![Screenshot of the user dashboard in Arduino CLoud](https://github.com/EmaaPop/Arduino-IoT-art-device---Cloud-Computing-/blob/main/UI%20for%20Cloud%20%20hot.jpg)
