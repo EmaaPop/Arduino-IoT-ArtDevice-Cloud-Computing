@@ -1,4 +1,13 @@
 # Arduino-IoT-art-device for ELEC0017-Connected Systems
+## Module Description:
+The modern world is full of connected systems. They underpin the information revolution and drive advances from the way we do business to the way we deliver healthcare.
+
+This module will introduce students to connected systems by providing a comprehensive coverage of the systems and technologies that build modern communications networks. Specifically, it covers the state-of-the-art technologies of the internet of things as well as the applications that are enabled by it.
+
+On completion of this course, students should be able to:
+- Identify the elements of a connected system architecture.
+- Make suitable choices of technologies for different applications.
+- Produce a small connected system using high level tools.
 ===========================================
 
 Prompt: Develop a small connected system using the components you have and the Arduino Cloud
